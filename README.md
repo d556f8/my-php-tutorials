@@ -1,5 +1,5 @@
 # How to launch
-1. run `build.sh` 
+1. run `build.sh`  
 Only build on first run.
 ~~~bash
 sh build.sh
